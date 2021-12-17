@@ -6,8 +6,10 @@ Build and deploy a cloud-based Node.js applications, which uses REST APIs to sto
 
 ![Add Reviews](https://github.com/Linda-Angulo/qkfls-Movie-Reviews-Database/blob/gh-pages/addReviews.png?raw=true)
 
-- [View Reviews](https://github.com/Linda-Angulo/qkfls-Movie-Reviews-Database/blob/gh-pages/viewReviews.png?raw=true)
+- [View Reviews](https://movies-reviews-database-aa6.eu-gb.mybluemix.net/reviews)
 
-![View Reviews](https://movies-reviews-database-aa6.eu-gb.mybluemix.net/reviews)
+![View Reviews](https://github.com/Linda-Angulo/qkfls-Movie-Reviews-Database/blob/gh-pages/viewReviews.png?raw=true)
+
+
 
 
